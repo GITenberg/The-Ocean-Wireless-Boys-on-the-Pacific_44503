@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1974
     wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44503#The-Ocean-Wireless-Boys-on-the-Pacific
 gutenberg_issued: '2013-12-24'
 gutenberg_type: Text
 identifiers:
